@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-12-05 14:11:50 -0800
-categories: jekyll update
+title:  "This site is a work in progress!"
+date:   2023-12-06 13:40:50 -0800
+categories: website updates
 ---
+I am currently working on building this website as a way for people to have everything they would need to know about me including my past education, work experience, and projects. Check out my "About" page if you would like to reach me!
+
+This website uses Jekyll, here is some sample ways to use Jekyll:
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
