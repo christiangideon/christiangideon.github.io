@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "This site is a work in progress!"
-date:   2023-12-06 13:40:50 -0800
+title:  "Welcome! This site is a work in progress!"
+date:   2023-12-09 13:40:50 -0800
 categories: website updates
 ---
 I am currently working on building this website as a way for people to have everything they would need to know about me including my past education, work experience, and projects. Check out my "About" page if you would like to reach me!
 
-This website uses Jekyll, here is some sample ways to use Jekyll:
+<!--This website uses Jekyll, here is some sample ways to use Jekyll:
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<! You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -31,3 +31,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+-->

@@ -20,4 +20,4 @@ You can also find me at my USD email: [christiangideon@sandiego.edu](christiangi
 
 I am also on Handshake and LinkedIn: [LinkedIn](https://www.linkedin.com/in/christian-gideon-011671194/)
 
-Lastly, my phone number is <u>1(818)-825-4219</u>. If you would like to call me, you are most likely to reach me on a weekday between the hours of 11AM and 6PM. If I do not respond, please feel free to leave a message!
+Lastly, my phone number is <u>1(818)-825-4219</u>. If you would like to call me, you are most likely to reach me on a weekday between the hours of 11AM and 5PM. If I do not respond, please feel free to leave a message!

@@ -6,8 +6,7 @@ permalink: /projects/
 
 This is where I will put my project descriptions.
 
-Here's my
-[Github](https://github.com/christiangideon)
+Here is where you will find my <a href = "https://github.com/christiangideon" target = "_blank"><u>Github</u></a>!
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
