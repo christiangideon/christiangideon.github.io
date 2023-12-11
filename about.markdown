@@ -12,12 +12,11 @@ I realized more in college that I also really enjoy working with people and disc
 
 And now that I've graduated, I still find myself in love with technology! That's why I am currently pursuing jobs within the realm of Software Engineering.
 
-
 ## Contact Information
 You can reach out to me at my personal email: [crgideon19@gmail.com](crgideon19@gmail.com)
 
 You can also find me at my USD email: [christiangideon@sandiego.edu](christiangideon@sandiego.edu)
 
-I am also on Handshake and LinkedIn: [LinkedIn](https://www.linkedin.com/in/christian-gideon-011671194/)
+I am also on Handshake and <a href = "https://theconversation.com/5-reasons-video-games-should-be-more-widely-used-in-school-164264" target = "_blank"><u>LinkedIn</u></a>.
 
 Lastly, my phone number is <u>1(818)-825-4219</u>. If you would like to call me, you are most likely to reach me on a weekday between the hours of 11AM and 5PM. If I do not respond, please feel free to leave a message!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome! This site is a work in progress!"
-date:   2023-12-09 13:40:50 -0800
+date:   2023-12-10 13:40:50 -0800
 categories: website updates
 ---
 I am currently working on building this website as a way for people to have everything they would need to know about me including my past education, work experience, and projects. Check out my "About" page if you would like to reach me!
