@@ -12,6 +12,7 @@ Even though the game was created before COVID, Henderson mentions how the main c
 
 In the article, Henderson clearly deconstructs the game’s setting and characters to effectively lead her audience to the fact that Night in the Woods reflects the “raw and harrowing” lives of those trying to achieve adulthood today. I would recommend giving the article a read, and if you think the game sounds like something you’d enjoy then go and try it out yourself!
 
+<img src="/docs/assets/nitwbanner.jpg" alt="A banner of the game, Night in the Woods"/>
 
 <html>
 <head>
