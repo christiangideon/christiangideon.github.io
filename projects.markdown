@@ -29,6 +29,7 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
       font-size: 25px;
       text-align: center;
       color: white;
+      padding: 25px;
     }
   </style>
   <body>
