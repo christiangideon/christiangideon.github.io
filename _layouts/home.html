@@ -9,66 +9,15 @@ layout: base
 
   {{ content }}
 
-
-  <!--{% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
-
-
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
-
-  {%- endif -%}-->
-
-
   <div class="row">
     <div class="column">
       <img src="/docs/assets/Gown.jpg" alt="A picture of Christian Gideon in his gown after graduation."/>
     </div>
     <div class="column">
-      <img src="/docs/assets/Glasses-and-honors.jpeg" alt="A picture of Christian Gideon on the University of San Diego's campus."/><br>
+      <img src="/docs/assets/Glasses-and-honors.jpeg" alt="A picture of Christian Gideon on the University of San Diego's campus."/>
     </div>
   </div>
-  <!--<img src="/docs/assets/Glasses-and-honors.jpeg" alt="A picture of Christian Gideon on the University of San Diego's campus." class="center"/><br>
-  <img src="/docs/assets/Gown.jpg" alt="A picture of Christian Gideon in his gown after graduation." class="center"/><br>-->
+
 
   <html>
   <head>
@@ -97,48 +46,8 @@ layout: base
   </head>
   </html>
 
-<!--
-      * {box-sizing: border-box;}
-  /* Two image containers (use 25% for four, 33.33% for three, and 50% for two, etc) */
-.column {
-  display: flex;
-  flex-direction: row;
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
--->
-
-
-
-<!--
-.wrapper {
-  display: flex;
-}
-
-.left {
-  float: left;
-  flex: 0 0 30%;
-  padding: 5px;
-}
-
-.right {
-  float: right;
-  flex: 1;
-  padding: 5px;
-}
-
--->
-
-
-Hello! My name is Christian Gideon, and I am a recent graduate from the University of San Diego. Ever since middle school, I've always been interested in robotics,
+<br>Hello! My name is Christian Gideon, and I am a recent graduate from the University of San Diego. Ever since middle school, I've always been interested in robotics,
 software, and engineering. After being on my VEX and FRC Robotics teams in middle and high school, I delved further into the world of code which led me to pursue
 a major in Computer Science.<br><br>
 
