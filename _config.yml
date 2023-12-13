@@ -33,6 +33,10 @@ linkedin_username: christian-gideon-011671194
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - index.markdown
+  - posts.markdown
+  - projects.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
