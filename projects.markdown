@@ -16,7 +16,7 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
   </head>
   <style>
     .container {
-    background-color: #0097EE;
+    background-color: #141414;
     display: flex;
     align-items: center;
     justify-content: center
@@ -29,16 +29,16 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
       font-size: 25px;
       text-align: center;
       color: white;
-      padding: 50px;
+      padding: 40px;
     }
   </style>
   <body>
     <div class="container" onclick='location.href="/projects/jukebox/"'>
       <div class="image">
-        <a href = "/projects/jukebox/"><img src="/docs/assets/mp3-functionality.png" alt="A picture of project jukebox's mp3 player supported functionality."/></a>
+        <a href = "/projects/jukebox/"><img src="/docs/assets/Jukebox-Capabilities.png" alt="A picture of project jukebox's mp3 player supported functionality."/></a>
       </div>
       <div class="text">
-        <a href = "/projects/jukebox/" style="color: white"><u>Internet Jukebox</u></a>
+        <a href = "/projects/jukebox/" style="color: #57FFDC"><u>Internet Jukebox</u></a>
       </div>
     </div>
   </body>
