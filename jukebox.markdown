@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internet Jukebox
+title: Internet Jukebox from USD Networking Class
 permalink: /projects/jukebox/
 ---
 
@@ -16,5 +16,3 @@ As a part of my Computer Networking class at the University of San Diego, I work
     <object data="/docs/assets/Presentation-slides.pdf" type="application/pdf" width="100%" height="500px">
       <p>Unable to display PDF file. <a href="/docs/assets/Presentation-slides.pdf">Download</a> instead.</p>
     </object>
-  </body>
-</html>

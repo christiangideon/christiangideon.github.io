@@ -26,8 +26,9 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
       max-height:100%;
     }
     .text {
-      font-size: 20px;
-      padding-left: 20px;
+      font-size: 25px;
+      text-align: center;
+      color: white;
     }
   </style>
   <body>
@@ -36,11 +37,13 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
         <a href = "/projects/jukebox/"><img src="/docs/assets/mp3-functionality.png" alt="A picture of project jukebox's mp3 player supported functionality."/></a>
       </div>
       <div class="text">
-        <a href = "/projects/jukebox/"><h2 style="color: white;"><u>Internet Jukebox</u></h2></a>
+        <a href = "/projects/jukebox/" style="color: white"><u>Internet Jukebox</u></a>
       </div>
     </div>
   </body>
 </html>
+
+
 
 
 <br><br><br>You can find the source code for Jekyll, what I used to assist in the creation of this website, on GitHub:
