@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internet Jukebox from USD Networking Class
+title: Internet Jukebox - USD Networking Class
 permalink: /projects/jukebox/
 ---
 

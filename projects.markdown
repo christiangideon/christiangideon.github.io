@@ -6,7 +6,7 @@ permalink: /projects/
 
 This is where I will put my project descriptions and links as I add them - this website is still a work in progress!
 
-Here is where you will find my <a href = "https://github.com/christiangideon" target = "_blank"><u>Github</u></a> for some code I've worked on in the past.
+Here is where you will find my <a href = "https://github.com/christiangideon" target = "_blank"><u>Github</u></a> for some code I've worked on in the past.<br><br>
 
 
 <!--Internet Jukebox-->
@@ -24,12 +24,13 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
     img {
       max-width: 100%;
       max-height:100%;
+      padding: 15px;
     }
     .text {
       font-size: 25px;
       text-align: center;
       color: white;
-      padding: 40px;
+      padding: 25px;
     }
   </style>
   <body>
@@ -47,7 +48,7 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
 
 
 
-<br><br><br>You can find the source code for Jekyll, what I used to assist in the creation of this website, on GitHub:
+<br><br><br><br><br>You can find the source code for Jekyll, what I used to assist in the creation of this website, on GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
