@@ -11,7 +11,7 @@ As a part of my Computer Networking class at the University of San Diego, I work
     <title>Internet Jukebox Presentation Slides</title>
   </head>
   <body>
-    <h1>Presentation Slides PDF</h1>
+    <h1><a href = "/docs/assets/Presentation-slides.pdf" target = "_blank"><u>Presentation Slides PDF</u></a></h1>
     <p>Please note that the pdf will likely not display properly in mobile browsers. You can still view it <a href = "/docs/assets/Presentation-slides.pdf" target = "_blank"><u>here</u></a>.<br><br>
     <object data="/docs/assets/Presentation-slides.pdf" type="application/pdf" width="100%" height="500px">
       <p>Unable to display PDF file. <a href="/docs/assets/Presentation-slides.pdf">Download</a> instead.</p>
