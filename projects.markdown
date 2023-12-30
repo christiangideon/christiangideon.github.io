@@ -63,7 +63,7 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
     img {
       max-width: 90%;
       max-height:90%;
-      padding: 15px;
+      padding: 20px;
     }
     .text {
       font-size: 25px;
@@ -83,6 +83,86 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
     </div>
   </body>
 </html>
+
+<br>
+
+
+<!--Senior Capstone-->
+<html>
+  <head>
+    <title>Senior Capstone</title>
+  </head>
+  <style>
+    .container3 {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    }
+    img {
+      max-width: 100%;
+      max-height:100%;
+      padding: 15px;
+    }
+    .text {
+      font-size: 25px;
+      text-align: center;
+      color: white;
+      padding: 25px;
+    }
+  </style>
+  <body>
+    <div class="container3" onclick='location.href="/projects/usd-capstone/"'>
+      <div class="image">
+        <a href = "/projects/usd-capstone/"><img src="/docs/assets/FirstWork_Logo.png" alt="A picture of the FirstWork company logo."/></a>
+      </div>
+      <div class="text">
+        <a href = "/projects/usd-capstone/"><u>FirstWork Senior Capstone</u></a>
+      </div>
+    </div>
+  </body>
+</html>
+
+<br>
+
+
+<!--Honors Thesis-->
+<html>
+  <head>
+    <title>Honors Thesis</title>
+  </head>
+  <style>
+    .container4 {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    }
+    img {
+      max-width: 90%;
+      max-height:90%;
+      padding: 20px;
+    }
+    .text {
+      font-size: 25px;
+      text-align: center;
+      color: white;
+      padding: 70px;
+    }
+  </style>
+  <body>
+    <div class="container4" onclick='location.href="/projects/honors-thesis/"'>
+      <div class="text">
+        <a href = "/projects/honors-thesis/"><u>Honors Thesis</u></a>
+      </div>
+      <div class="image">
+        <a href = "/projects/honors-thesis/"><img src="/docs/assets/honors_dashboard.png" alt="A picture of an unsolved, handwritten sudoku problem."/></a>
+      </div>
+    </div>
+  </body>
+</html>
+
+<br>
 
 
 
