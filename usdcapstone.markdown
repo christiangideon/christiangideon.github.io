@@ -6,7 +6,7 @@ permalink: /projects/usd-capstone/
 
 <img src="/docs/assets/senior-project.jpg" alt="A picture of the FirstWork USD Senior Capstone team: Andrea Ramirez, Christian Gideon, Dianne Catapang, and Dillan Lopez."/>
 
-In this project which lasted from Fall 2022 to Spring 2023, I partnered with three other USD computer science seniors to work on an algorithm for the startup company, FirstWork. FirstWork's app helps children with autism to develop valuable speech-learning skills by letting the children learn at their own pace and blocking other entertainment apps until certain learning requirements (determined by the adult user) are met.
+In this project which lasted from Fall 2022 to Spring 2023, I partnered with three other USD computer science seniors to work on an algorithm for the startup company, <a href = "https://firstworkapp.com/" target = "_blank"><u>FirstWork</u></a>. FirstWork's app helps children with autism to develop valuable speech-learning skills by letting the children learn at their own pace and blocking other entertainment apps until certain learning requirements (determined by the adult user) are met.
 
 However, at this point in time the FirstWork app was missing a way to generate an optimal lesson plan recommendation to adult users on a per-child basis. This is the part of the app which would allow parents and therapists of the children to be more confident about the types of challenges they were assigning to their children. It would help the adults make sure they were giving their children the most effective prompts and problems for their individual learning needs.
 
