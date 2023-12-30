@@ -22,7 +22,7 @@ title: Christian Gideon
 email: crgideon19@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Christian Gideon's Website! It is still currently a work in progress,
-  so go check out my LinkedIn if you'd like a list of all my recent projects and work experience!
+  so go check out my LinkedIn if you'd like a concise way to learn all about me!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -35,8 +35,10 @@ plugins:
   - jekyll-feed
 header_pages:
   - index.markdown
-  - posts.markdown
+  - workexperience.markdown
   - projects.markdown
+  - posts.markdown
+  - contact.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

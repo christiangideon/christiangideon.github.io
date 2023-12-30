@@ -9,13 +9,93 @@ This is where I will put my project descriptions and links as I add them - this 
 Here is where you will find my <a href = "https://github.com/christiangideon" target = "_blank"><u>Github</u></a> for some code I've worked on in the past.<br><br>
 
 
+<!--Senior Capstone-->
+<html>
+  <head>
+    <title>Senior Capstone</title>
+  </head>
+  <style>
+    .container3 {
+    background-color: white;
+    border-style: solid;
+    border-color: #035183;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    }
+    img {
+      max-width: 100%;
+      max-height:100%;
+      padding: 15px;
+    }
+    .text {
+      font-size: 25px;
+      text-align: center;
+      color: white;
+      padding: 25px;
+    }
+  </style>
+  <body>
+    <div class="container3" onclick='location.href="/projects/usd-capstone/"'>
+      <div class="image">
+        <a href = "/projects/usd-capstone/"><img src="/docs/assets/FirstWork_Logo.png" alt="A picture of the FirstWork company logo."/></a>
+      </div>
+      <div class="text">
+        <a href = "/projects/usd-capstone/" style="color: #035183"><u>FirstWork Senior Capstone</u></a>
+      </div>
+    </div>
+  </body>
+</html>
+
+<br>
+
+<!--Honors Thesis-->
+<html>
+  <head>
+    <title>Honors Thesis</title>
+  </head>
+  <style>
+    .container4 {
+    background-color: white;
+    border-style: solid;
+    border-color: #00AA7E;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    }
+    img {
+      max-width: 90%;
+      max-height:90%;
+      padding: 20px;
+    }
+    .text {
+      font-size: 25px;
+      text-align: center;
+      color: white;
+      padding: 70px;
+    }
+  </style>
+  <body>
+    <div class="container4" onclick='location.href="/projects/honors-thesis/"'>
+      <div class="text">
+        <a href = "/projects/honors-thesis/" style="color: #00AA7E"><u>Honors Thesis</u></a>
+      </div>
+      <div class="image">
+        <a href = "/projects/honors-thesis/"><img src="/docs/assets/honors_dashboard.png" alt="A picture of an unsolved, handwritten sudoku problem."/></a>
+      </div>
+    </div>
+  </body>
+</html>
+
+<br>
+
 <!--Internet Jukebox-->
 <html>
   <head>
     <title>Internet Jukebox</title>
   </head>
   <style>
-    .container {
+    .container1 {
     background-color: #141414;
     display: flex;
     align-items: center;
@@ -34,7 +114,7 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
     }
   </style>
   <body>
-    <div class="container" onclick='location.href="/projects/jukebox/"'>
+    <div class="container1" onclick='location.href="/projects/jukebox/"'>
       <div class="image">
         <a href = "/projects/jukebox/"><img src="/docs/assets/Jukebox-Capabilities.png" alt="A picture of project jukebox's mp3 player supported functionality."/></a>
       </div>
@@ -45,7 +125,46 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
   </body>
 </html>
 
+<br>
 
+
+<!--Algorithms Class-->
+<html>
+  <head>
+    <title>Algorithms Course</title>
+  </head>
+  <style>
+    .container2 {
+    background-color: #C8C4BB;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    }
+    img {
+      max-width: 90%;
+      max-height:90%;
+      padding: 20px;
+    }
+    .text {
+      font-size: 25px;
+      text-align: center;
+      color: white;
+      padding: 60px;
+    }
+  </style>
+  <body>
+    <div class="container2" onclick='location.href="/projects/algorithms/"'>
+      <div class="text">
+        <a href = "/projects/algorithms/" style="color: black"><u>Algorithms Course</u></a>
+      </div>
+      <div class="image">
+        <a href = "/projects/algorithms/"><img src="/docs/assets/sudoku.jpg" alt="A picture of an unsolved, handwritten sudoku problem."/></a>
+      </div>
+    </div>
+  </body>
+</html>
+
+<br>
 
 
 <br><br><br><br><br>You can find the source code for Jekyll, what I used to assist in the creation of this website, on GitHub:
