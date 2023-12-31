@@ -24,7 +24,24 @@ In the summers of 2020 and 2021 between semesters at college, I worked at Amazon
 
 <br><br>After the internship, I was invited back to the team in the summer of 2021 to fly to Seattle and work at the Amazon headquarters with my Alexa Communications team as a full Software Development Engineer Intern. This was done in a hybrid setting, given that the Covid-19 pandemic was still subsiding. The solo project I took on during this time was a data analysis program for Amazon Machine Learning Engineers to utilize with their machine learning model for Alexa Communications. This is where I learned that I enjoy working in person more than I do online, as I can more effectively get to know my coworkers and the projects they are working on.<br><br>
 
-<img src="/docs/assets/amazon-team-2021.jpg" alt="A picture of the Amazon Alexa Communications team in 2021." width="70%"/>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+<img src="/docs/assets/amazon-team-2021.jpg" alt="A picture of the Amazon Alexa Communications team in 2021." width="80%"/>
+
+</body>
+</html>
+
 
 
 <br><br>

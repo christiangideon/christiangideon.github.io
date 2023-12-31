@@ -64,25 +64,26 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
     justify-content: center
     }
     img {
-      max-width: 90%;
-      max-height:90%;
-      padding: 20px;
+      max-width: 100%;
+      max-height:100%;
+      padding: 15px;
     }
     .text {
       font-size: 25px;
       text-align: center;
       color: white;
-      padding: 70px;
+      padding: 25px;
     }
   </style>
   <body>
     <div class="container4" onclick='location.href="/projects/honors-thesis/"'>
-      <div class="text">
-        <a href = "/projects/honors-thesis/" style="color: #00AA7E"><u>Honors Thesis</u></a>
-      </div>
       <div class="image">
         <a href = "/projects/honors-thesis/"><img src="/docs/assets/honors_dashboard.png" alt="A picture of an unsolved, handwritten sudoku problem."/></a>
       </div>
+      <div class="text">
+        <a href = "/projects/honors-thesis/" style="color: #00AA7E"><u>Honors Thesis</u></a>
+      </div>
+      
     </div>
   </body>
 </html>
@@ -141,24 +142,24 @@ Here is where you will find my <a href = "https://github.com/christiangideon" ta
     justify-content: center
     }
     img {
-      max-width: 90%;
-      max-height:90%;
+      max-width: 100%;
+      max-height:100%;
       padding: 20px;
     }
     .text {
       font-size: 25px;
       text-align: center;
       color: white;
-      padding: 60px;
+      padding: 40px;
     }
   </style>
   <body>
     <div class="container2" onclick='location.href="/projects/algorithms/"'>
+      <div class="image">
+        <a href = "/projects/algorithms/"><img src="/docs/assets/sudokusmall.png" alt="A picture of an unsolved, handwritten sudoku problem." width="100%"/></a>
+      </div>
       <div class="text">
         <a href = "/projects/algorithms/" style="color: black"><u>Algorithms Course</u></a>
-      </div>
-      <div class="image">
-        <a href = "/projects/algorithms/"><img src="/docs/assets/sudoku.jpg" alt="A picture of an unsolved, handwritten sudoku problem."/></a>
       </div>
     </div>
   </body>
