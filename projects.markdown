@@ -4,9 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-This is where I will put my project descriptions and links as I add them - this website is still a work in progress!
+This is a hub for my past projects; click on the boxes below to read more about each project!
 
-Here is where you will find my <a href = "https://github.com/christiangideon" target = "_blank"><u>Github</u></a> for some code I've worked on in the past.<br><br>
+If you would like to see some of my past code, here is where you will find my <a href = "https://github.com/christiangideon" target = "_blank"><u>Github</u></a>.<br><br>
 
 
 <!--Senior Capstone-->

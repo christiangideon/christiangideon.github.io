@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome! This site will continue to have updates"
+date:   2023-12-10 13:40:50 -0800
+categories: websiteupdates
+---
+Welcome one and all! This site is currently up-to-date with my work experience and has most of my major projects listed. However, I will be adding more projects and details over time as I get to keep working on this website. Thank you for taking the time to check it out!
+
+The easiest ways to reach me can be found on my "Contact Me" tab. Hope to see you soon!

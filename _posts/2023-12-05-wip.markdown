@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome! This site is a work in progress!"
+title:  "This site is a work in progress!"
 date:   2023-12-10 13:40:50 -0800
 categories: websiteupdates
 ---

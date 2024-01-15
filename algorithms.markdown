@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algorithms Projects - USD Algorithms Class
+title: Algorithms Course Projects
 permalink: /projects/algorithms/
 ---
 
@@ -53,4 +53,21 @@ You find yourself looking at a square grid with stones placed on it. If you were
 
 For the final project, I was tasked with creating efficient code that would solve <a href = "https://en.wikipedia.org/wiki/Sudoku" target = "_blank"><u>Sudoku puzzles</u></a>. To do this, I utilized <a href = "https://www.geeksforgeeks.org/backtracking-algorithms/" target = "_blank"><u>backtracking</u></a> to successfully solve sudoku problems that were of size 9x9 or 16x16 grids. <a href = "https://github.com/christiangideon/comp480-algorithms/blob/main/comp480-sp23-pa4-group5/pa4.py" target = "_blank"><u>Click here for my solution</u></a>.
 
-<a href = "https://github.com/christiangideon/comp480-algorithms/blob/main/comp480-sp23-pa4-group5/pa4.py" target = "_blank"><img src="/docs/assets/sudoku.jpg" alt="A picture of a handwritten sudoku problem, unsolved."/></a>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+<a href = "https://github.com/christiangideon/comp480-algorithms/blob/main/comp480-sp23-pa4-group5/pa4.py" target = "_blank"><img src="/docs/assets/sudokusmall.png" alt="A picture of a handwritten sudoku problem, unsolved."/></a>
+
+</body>
+</html>
