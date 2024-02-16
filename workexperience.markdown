@@ -60,3 +60,13 @@ As part of my Global Economic Leadership class at Chaminade College Preparatory 
 <br><br>The Chaminade Promenade took place over two days, where student-run companies had the chance to sell their services and products to other students. As the owner of this company, I invested personal capital in the business and successfully advertised my product for a net profit over the two days of selling.
 
 <br><br>You can view a short video of the Frosted booth, along with the rest of the 2019 Promenade, at this link: <a href = "https://youtu.be/CaHTnGhMKYo?t=366" target = "_blank"><u>Chaminade Promenade</u></a>
+
+
+<br><br>
+<h3>My References</h3>
+
+My past work has led me to make connections who will gladly vouch for me when applying to jobs. If you would like to get in contact with one of them, you can find their information below.
+
+<br><br>Dr. John Glick, Head of the Computer Science Department at the University of San Diego: <u>glick@sandiego.edu</u>
+<br><br>Dr. Jennifer Olsen, Computer Science Professor at the University of San Diego: <u>jenniferolsen@sandiego.edu</u>
+<br><br>Dr. Jay Kunin, Computer Science Professor at the University of San Diego: <u>jkunin@sandiego.edu</u>
