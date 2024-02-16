@@ -98,6 +98,8 @@ If you would like to see some of my past code, here is where you will find my <a
   <style>
     .containerm {
     background-color: #FF8080;
+    border-style: solid;
+    border-color: #D85757;
     display: flex;
     align-items: center;
     justify-content: center
@@ -117,7 +119,7 @@ If you would like to see some of my past code, here is where you will find my <a
   <body>
     <div class="containerm" onclick='location.href="/projects/Mood4U/"'>
       <div class="image">
-        <a href = "/projects/Mood4U/"><img src="/docs/assets/Mood4U-projects-page-cover.png" alt="A picture of Mood4U's paper prototypes."/></a>
+        <a href = "/projects/Mood4U/"><img src="/docs/assets/Mood4U-projectpage.png" alt="A picture of Mood4U's paper prototypes."/></a>
       </div>
       <div class="text">
         <a href = "/projects/Mood4U/" style="color: white"><u>Mood4U App</u></a>
@@ -136,6 +138,8 @@ If you would like to see some of my past code, here is where you will find my <a
   <style>
     .container1 {
     background-color: #141414;
+    border-style: solid;
+    border-color: black;
     display: flex;
     align-items: center;
     justify-content: center
@@ -166,7 +170,6 @@ If you would like to see some of my past code, here is where you will find my <a
 
 <br>
 
-
 <!--Algorithms Class-->
 <html>
   <head>
@@ -175,6 +178,8 @@ If you would like to see some of my past code, here is where you will find my <a
   <style>
     .container2 {
     background-color: #C8C4BB;
+    border-style: solid;
+    border-color: #848179;
     display: flex;
     align-items: center;
     justify-content: center
