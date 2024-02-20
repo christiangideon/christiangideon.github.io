@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog: How a videogame can mirror the struggles of growing up"
-date:   2021-11-25 13:40:50 -0800
+date:   2023-11-25 13:40:50 -0800
 categories: gamesforgood
 ---
 One aspect of videogames that has always piqued my curiosity is the fact that they can sometimes get so deep or feel so real, despite only being pixels on a screen. They can be so relatable that a player’s life may change as the result of playing a game whose characters they may empathize with.

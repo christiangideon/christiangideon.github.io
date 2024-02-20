@@ -21,6 +21,7 @@ Here is the poster which was presented at the University of San Diego's 2023 Eng
   <head>
     <title>FirstWork Senior Project One-Pager</title>
   </head>
+  <h1><a href = "/docs/assets/firstwork_one_pager.pdf" target = "_blank"><u>One-Pager Report</u></a></h1>
   <body>
     <p>After the project was finished, I handed the code back to our sponsors from FirstWork for them to use in the future. Below, you can see a PDF report describing the recommendation algorithm in more detail. If there are problems viewing the PDF, you can also view it <a href = "/docs/assets/firstwork_one_pager.pdf" target = "_blank"><u>here</u></a>.<br><br>
     <object data="/docs/assets/firstwork_one_pager.pdf" type="application/pdf" width="100%" height="500px">

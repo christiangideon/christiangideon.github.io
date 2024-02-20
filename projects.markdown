@@ -21,7 +21,8 @@ If you would like to see some of my past code, here is where you will find my <a
     border-color: #035183;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    cursor: pointer;
     }
     img {
       max-width: 100%;
@@ -61,7 +62,8 @@ If you would like to see some of my past code, here is where you will find my <a
     border-color: #00AA7E;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    cursor: pointer;
     }
     img {
       max-width: 100%;
@@ -90,6 +92,47 @@ If you would like to see some of my past code, here is where you will find my <a
 
 <br>
 
+<!--Mood4U-->
+<html>
+  <head>
+    <title>Mood4U App</title>
+  </head>
+  <style>
+    .containerm {
+    background-color: #FF8080;
+    border-style: solid;
+    border-color: #D85757;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    }
+    img {
+      max-width: 100%;
+      max-height:100%;
+      padding: 15px;
+    }
+    .text {
+      font-size: 25px;
+      text-align: center;
+      color: white;
+      padding: 25px;
+    }
+  </style>
+  <body>
+    <div class="containerm" onclick='location.href="/projects/Mood4U/"'>
+      <div class="image">
+        <a href = "/projects/Mood4U/"><img src="/docs/assets/Mood4U-projectpage.png" alt="A picture of Mood4U's paper prototypes."/></a>
+      </div>
+      <div class="text">
+        <a href = "/projects/Mood4U/" style="color: white"><u>Mood4U App</u></a>
+      </div>
+    </div>
+  </body>
+</html>
+
+<br>
+
 <!--Internet Jukebox-->
 <html>
   <head>
@@ -98,9 +141,12 @@ If you would like to see some of my past code, here is where you will find my <a
   <style>
     .container1 {
     background-color: #141414;
+    border-style: solid;
+    border-color: black;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    cursor: pointer;
     }
     img {
       max-width: 100%;
@@ -128,7 +174,6 @@ If you would like to see some of my past code, here is where you will find my <a
 
 <br>
 
-
 <!--Algorithms Class-->
 <html>
   <head>
@@ -137,9 +182,12 @@ If you would like to see some of my past code, here is where you will find my <a
   <style>
     .container2 {
     background-color: #C8C4BB;
+    border-style: solid;
+    border-color: #848179;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    cursor: pointer;
     }
     img {
       max-width: 100%;
@@ -168,7 +216,7 @@ If you would like to see some of my past code, here is where you will find my <a
 <br>
 
 
-<br><br><br><br><br>You can find the source code for Jekyll, what I used to assist in the creation of this website, on GitHub:
+<br>You can find the source code for Jekyll, what I used to assist in the creation of this website, on GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 

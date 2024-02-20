@@ -14,6 +14,7 @@ As a part of the <a href = "https://www.sandiego.edu/honors/" target = "_blank">
     <title>Honors Thesis</title>
   </head>
   <body>
+  <h1><a href = "/docs/assets/honors_thesis.pdf" target = "_blank"><u>Full Thesis</u></a></h1>
     <p>You can find the entirety of my thesis on this page below. If the PDF does not properly display, you can also view it <a href = "/docs/assets/honors_thesis.pdf" target = "_blank"><u>here</u></a>.<br><br>
     <object data="/docs/assets/honors_thesis.pdf" type="application/pdf" width="100%" height="500px">
       <p>Unable to display PDF file. <a href="/docs/assets/honors_thesis.pdf">Download</a> instead.</p>
