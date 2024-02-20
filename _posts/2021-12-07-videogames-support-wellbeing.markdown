@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog: Videogames support mental well-being – here’s some reasons why"
-date:   2021-11-27 13:40:50 -0800
+date:   2023-11-27 13:40:50 -0800
 categories: gamesforgood
 ---
 The last time I played <a href = "https://www.smashbros.com/en_US/" target = "_blank"><u>Super Smash Brothers</u></a> I felt like my real-life reaction time increased. And when I managed to snag a glass plate moments before devastation later that day, I was sure that Smash was the reason why I was able to react so quickly! I felt accomplished thanks to my time gaming earlier that day… but who’s to say that Smash was the real reason I caught that plate?

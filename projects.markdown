@@ -21,7 +21,8 @@ If you would like to see some of my past code, here is where you will find my <a
     border-color: #035183;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    cursor: pointer;
     }
     img {
       max-width: 100%;
@@ -61,7 +62,8 @@ If you would like to see some of my past code, here is where you will find my <a
     border-color: #00AA7E;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    cursor: pointer;
     }
     img {
       max-width: 100%;
@@ -102,7 +104,8 @@ If you would like to see some of my past code, here is where you will find my <a
     border-color: #D85757;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    cursor: pointer;
     }
     img {
       max-width: 100%;
@@ -142,7 +145,8 @@ If you would like to see some of my past code, here is where you will find my <a
     border-color: black;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    cursor: pointer;
     }
     img {
       max-width: 100%;
@@ -182,7 +186,8 @@ If you would like to see some of my past code, here is where you will find my <a
     border-color: #848179;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    cursor: pointer;
     }
     img {
       max-width: 100%;

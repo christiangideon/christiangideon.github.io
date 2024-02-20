@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog: Five ways videogames enhance learning"
-date:   2021-11-21 13:40:50 -0800
+date:   2023-11-21 13:40:50 -0800
 categories: gamesforgood
 ---
 The idea of adding more videogames into school has been tossed around for a while. Some, like author André Thomas, argue that <a href = "https://theconversation.com/5-reasons-video-games-should-be-more-widely-used-in-school-164264" target = "_blank"><u>they should be used in every classroom to enhance learning</u></a>. Thomas discusses the benefits of using games in school by mentioning five ways in which videogames can help students grow.

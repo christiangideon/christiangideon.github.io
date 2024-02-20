@@ -22,7 +22,7 @@ In the summers of 2020 and 2021, I worked at Amazon as a software developer inte
 
 <br><br>In 2020, I worked remotely with another Amazon Future Engineer recipient on an internal system designed to streamline part of the process Amazon Product Managers utilize to collect data. For this, I created a system from front to back that product managers could use to easily accomplish their individual goals. Through the process, I learned to communicate effectivey with stakeholders, coworkers, and other Amazon employees online.
 
-<br><br>After my first summer, I was invited back to the team in 2021 to fly to Seattle and work at the Amazon headquarters with my Alexa Communications team as a full Software Development Engineer Intern. This was done in a hybrid setting, given that the Covid-19 pandemic was still subsiding. The solo project I took on during this time was a data analysis program for Amazon Machine Learning Engineers to utilize with their machine learning model for Alexa Communications. This is where I learned that I enjoy working in person more than I do online, as I can more effectively get to know my coworkers and the projects they are working on - along with how our projects would work together to make a long-term impact.<br><br>
+<br><br>After my first summer, I was invited back to the team in 2021 to fly to Seattle and work at the Amazon headquarters with my Alexa Communications team as a full Software Development Engineer Intern. This was done in a hybrid setting, given that the Covid-19 pandemic was still subsiding. The solo project I took on during this time was a data analysis program for Amazon Machine Learning Engineers to utilize with their machine learning model for Alexa Communications. This is where I learned that I enjoy working in person more than I do online, as I can more effectively get to know my coworkers and the projects they are working on (along with how our projects would work together to make a long-term impact at Amazon).<br><br>
 
 <html>
 <head>
@@ -65,8 +65,9 @@ As part of my Global Economic Leadership class at Chaminade College Preparatory 
 <br><br>
 <h3>My References</h3>
 
-My past work has led me to make connections who will gladly vouch for me when applying to jobs. If you would like to get in contact with one of them, you can find their information below.
+My past work has led me to make connections who will gladly vouch for me when applying to jobs. If you would like to get in contact with them, you can find their information below.
 
-<br><br>Dr. John Glick, Head of the Computer Science Department at the University of San Diego: <u>glick@sandiego.edu</u>
+<br><br>Dr. John Glick, Head of the Computer Science Department and Professor at the University of San Diego: <u>glick@sandiego.edu</u>
 <br><br>Dr. Jennifer Olsen, Computer Science Professor at the University of San Diego: <u>jenniferolsen@sandiego.edu</u>
 <br><br>Dr. Jay Kunin, Computer Science Professor at the University of San Diego: <u>jkunin@sandiego.edu</u>
+<br><br>Dr. Megan Little, Writing Program Director and Professor at the University of San Diego: <u>mlittle@sandiego.edu</u>, <u>+1(650)-826-9509</u>
