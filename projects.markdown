@@ -215,6 +215,47 @@ If you would like to see some of my past code, here is where you will find my <a
 
 <br>
 
+<!--Automata Class-->
+<html>
+  <head>
+    <title>Algorithms Course</title>
+  </head>
+  <style>
+    .containerau {
+    background-color: #201F1E;
+    border-style: solid;
+    border-color: #191919;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    }
+    img {
+      max-width: 100%;
+      max-height:100%;
+      padding: 20px;
+    }
+    .text {
+      font-size: 25px;
+      text-align: center;
+      color: white;
+      padding: 70px;
+    }
+  </style>
+  <body>
+    <div class="containerau" onclick='location.href="/projects/automata/"'>
+      <div class="image">
+        <a href = "/projects/automata/"><img src="/docs/assets/NFA.png" alt="Hand drawings demonstrating the construction of a theoretical NFA." width="100%"/></a>
+      </div>
+      <div class="text">
+        <a href = "/projects/automata/" style="color: white"><u>Automata Projects</u></a>
+      </div>
+    </div>
+  </body>
+</html>
+
+<br>
+
 
 <br>You can find the source code for Jekyll, what I used to assist in the creation of this website, on GitHub:
 [jekyll][jekyll-organization] /
