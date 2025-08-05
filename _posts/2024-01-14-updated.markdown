@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Welcome! This site will continue to have updates"
-date:   2023-12-10 13:40:50 -0800
+title:  "Welcome to my website!"
+date:   2025-08-05 13:40:50 -0800
 categories: websiteupdates
 ---
-Welcome one and all! This site is currently up-to-date with my work experience and has most of my major projects listed. However, I will be adding more projects and details over time as I get to keep working on this website. Thank you for taking the time to check it out!
+Welcome to Christian Gideon's personal website! This site contains details about my past work experience and projects for people to get to know more about my professional self. I will work to keep this site up-to-date as time moves on so people can know about my recent work as well as my past projects.
 
-The easiest ways to reach me can be found on my "Contact Me" tab. Hope to see you soon!
+The other blog posts on this page were part of a project for my Advanced Writing course at the University of San Diego. They reflect some of my passions surrounding a theme I selected, Representations of Mental Health in Videogames, which I have been interested in for quite some time. (It includes tidbits about some of my favorite videogames if you're interested in those little fun facts about me, too. :3) Enjoy if you like!
+
+The easiest ways to reach me can be found on my "Contact Me" tab. I hope to get in touch with you soon!

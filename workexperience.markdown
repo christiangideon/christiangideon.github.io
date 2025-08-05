@@ -9,11 +9,24 @@ permalink: /experience/
     <title>Christian Gideon Resume</title>
   </head>
   <body>
-    <h1><a href = "/docs/assets/Christian_Gideon_Resume_SDE.pdf" target = "_blank"><u>My Resume</u></a></h1>
-    <p>Below is a PDF of my resume, followed by further descriptions of some of my experience on this page. If the PDF cannot be viewed (which is likely the case in mobile browsers), you can view the resume <a href = "/docs/assets/Christian_Gideon_Resume_SDE.pdf" target = "_blank"><u>here</u></a>.<br><br>
-    <object data="/docs/assets/Christian_Gideon_Resume_SDE.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="/docs/assets/Christian_Gideon_Resume_SDE.pdf">Download</a> instead.</p>
+    <h1><a href = "/docs/assets/Christian_Gideon_Resume_2025_G.pdf" target = "_blank"><u>My Resume</u></a></h1>
+    <p>Below is a PDF of my resume, followed by further descriptions of some of my experience on this page. If the PDF cannot be viewed (which is likely the case in mobile browsers), you can view the resume <a href = "/docs/assets/Christian_Gideon_Resume_2025_G.pdf" target = "_blank"><u>here</u></a>.<br><br>
+    <object data="/docs/assets/Christian_Gideon_Resume_2025_G.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/docs/assets/Christian_Gideon_Resume_2025_G.pdf">Download</a> instead.</p>
     </object>
+
+  
+<h3>Software Development Engineer: Amazon and TEKSystems</h3>
+
+I was invited to Amazon through the contracting company, TEKSystems, to be a full time SDE Contractor in 2024. I worked on several Amazon teams for this role centered around emails and permissions for sellers on Amazon's platform.
+
+<br><br>I initially started on a team made up only of contractors where I was mainly tasked with sending emails to sellers - I sent over 2 million emails during my time there. The job on that team slowly changed over time and I then ended up working on reducing email template defects and conducting experiments. This helped me build up my skills with HTML and CSS, which I had only experimented with beforehand. Other parts of the role included performing quality audits on other people's experiments and automating the process of migrating emails from an old template format to a new one. I also consistently worked on customer support tickets sent to our team by sellers and internal employees, personally leading to the resolution of over 200 tickets.
+
+<br><br>My next team was made up entirely of salaried Amazon engineers. For this team, I assisted in the deprecation of an internal service by learning how to utilize AWS APIs including Lambda, DynamoDB, CloudWatch, SQS, and SNS. This work involved the creation of a new package that performed automated resource scanning, ultimately resulting in efficient reports being created and sent off to other engineers. I had to adapt a lot for this role, learning as I went until I deliver the proposed product.
+
+<br><br>The third team I worked on (also made up entirely of Amazon-employed deveopers) needed help with migrating a key service of theirs to a new data region. I worked with legacy code and built infrastructure using a plethora of internal tools to add new resources to the team's workflow. I relied on my programming knowledge and experience with research to accomplish this task efficiently and got the team ahead of schedule on their migration plans.
+
+<br><br>Funnily enough, when I was interviewed I was only told that this work was going to include SQL queries and necessitated some CSS and HTML knowledge. However, as detailed by the sheer amount of projects and tasks I worked on, I had to learn a lot as the work evolved over time. Because of my drive to deliver quality products, my contract was extended multiple times to allow me to bounce between teams and contribute all I could to help each team. I am grateful for the experience given to me by TEKSystems that got me back into the Amazon culture!<br><br>
 
 
 <h3>Software Development Engineer Intern: Amazon</h3>
