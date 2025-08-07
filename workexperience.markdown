@@ -9,10 +9,10 @@ permalink: /experience/
     <title>Christian Gideon Resume</title>
   </head>
   <body>
-    <h1><a href = "/docs/assets/Christian_Gideon_Resume_2025_G.pdf" target = "_blank"><u>My Resume</u></a></h1>
-    <p>Below is a PDF of my resume, followed by further descriptions of some of my experience on this page. If the PDF cannot be viewed (which is likely the case in mobile browsers), you can view the resume <a href = "/docs/assets/Christian_Gideon_Resume_2025_G.pdf" target = "_blank"><u>here</u></a>.<br><br>
-    <object data="/docs/assets/Christian_Gideon_Resume_2025_G.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="/docs/assets/Christian_Gideon_Resume_2025_G.pdf">Download</a> instead.</p>
+    <h1><a href = "/docs/assets/Christian_Gideon_Resume_2025_SDE.pdf" target = "_blank"><u>My Resume</u></a></h1>
+    <p>Below is a PDF of my resume, followed by further descriptions of some of my experience on this page. If the PDF cannot be viewed (which is likely the case in mobile browsers), you can view the resume <a href = "/docs/assets/Christian_Gideon_Resume_2025_SDE.pdf" target = "_blank"><u>here</u></a>.<br><br>
+    <object data="/docs/assets/Christian_Gideon_Resume_2025_SDE.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/docs/assets/Christian_Gideon_Resume_2025_SDE.pdf">Download</a> instead.</p>
     </object>
 
   
