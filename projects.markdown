@@ -8,6 +8,7 @@ This is a hub for my past projects; click on the boxes below to read more about 
 
 If you would like to see some of my past code, here is where you will find my <a href = "https://github.com/christiangideon" target = "_blank"><u>Github</u></a>.<br><br>
 
+COMING SOON: The Google UX Design Professional Certificate, which includes 240+ hours of content that teaches the mastery of Figma, AI Training, and other in-demand skills for UX Design and Research.
 
 <!--Senior Capstone-->
 <html>
