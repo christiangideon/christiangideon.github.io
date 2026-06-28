@@ -6,9 +6,11 @@ permalink: /projects/
 
 This is a hub for my past projects; click on the boxes below to read more about each project!
 
-If you would like to see some of my past code, here is where you will find my <a href = "https://github.com/christiangideon" target = "_blank"><u>Github</u></a>.<br><br>
+If you would like to see some of my past code, here is where you will find my <a href = "https://github.com/christiangideon" target = "_blank"><u>Github</u></a>.
 
-COMING SOON: The Google UX Design Professional Certificate, which includes 240+ hours of content that teaches the mastery of Figma, AI Training, and other in-demand skills for UX Design and Research.
+In 2026, I <a href = "https://www.coursera.org/account/accomplishments/specialization/VLL93SWBRAEQ" target = "_blank"><u>completed the Google UX Design Certificate Program</u></a> to strengthen my knowledge of essential concepts and tools within the world of UX Design. In this 8-class course with over 240+ hours of content, I completed two projects - an <a href = "https://www.figma.com/design/pV15iQlVKK4IbiH5itpYdB/Google-Class-2026-Project-1?node-id=87-198&t=dnbzXIMlvjyYgB5S-1" target = "_blank"><u>example user flow for a tutor-matching service</u></a>, and a <a href = "https://www.figma.com/design/Fpgm3CVrozttne0INVeimW/BeFandom-Google-Coursera-P2?node-id=77-490&t=5TfPV3PSYAAPP8z8-0" target = "_blank"><u>high-fidelity Figma prototype of a social networking app called BeFandom</u></a>. Stay tuned for more information to come on these projects! In the meantime, you can view the prototype of the BeFandom app <a href = "https://www.figma.com/proto/Fpgm3CVrozttne0INVeimW/BeFandom-Google-Coursera-P2?node-id=573-5390&t=6DFWDHVQGl7Uz6ES-1&scaling=scale-down&content-scaling=fixed&page-id=77%3A490&starting-point-node-id=573%3A5390" target = "_blank"><u>here</u></a>.<br><br>
+
+You can find more information on my other past projects by clicking in the boxes below.
 
 <!--Senior Capstone-->
 <html>

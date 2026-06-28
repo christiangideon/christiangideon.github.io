@@ -9,10 +9,10 @@ permalink: /experience/
     <title>Christian Gideon Resume</title>
   </head>
   <body>
-    <h1><a href = "/docs/assets/Christian_Gideon_Resume_2026_SDE.pdf" target = "_blank"><u>My Resume</u></a></h1>
-    <p>Below is a PDF of my resume, followed by further descriptions of some of my experience on this page. If the PDF cannot be viewed (which is likely the case in mobile browsers), you can view the resume <a href = "/docs/assets/Christian_Gideon_Resume_2025_SDE_G.pdf" target = "_blank"><u>here</u></a>.<br><br>
-    <object data="/docs/assets/Christian_Gideon_Resume_2026_SDE.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="/docs/assets/Christian_Gideon_Resume_2026_SDE.pdf">Download</a> instead.</p>
+    <h1><a href = "/docs/assets/Christian_Gideon_Resume_2026_GenericSE.pdf" target = "_blank"><u>My Resume</u></a></h1>
+    <p>Below is a PDF of my resume, followed by further descriptions of some of my experience on this page. If the PDF cannot be viewed (which is likely the case in mobile browsers), you can view the resume <a href = "/docs/assets/Christian_Gideon_Resume_2026_GenericSE.pdf" target = "_blank"><u>here</u></a>.<br><br>
+    <object data="/docs/assets/Christian_Gideon_Resume_2026_GenericSE.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/docs/assets/Christian_Gideon_Resume_2026_GenericSE.pdf">Download</a> instead.</p>
     </object>
 
   
@@ -88,6 +88,7 @@ As part of my Global Economic Leadership class at Chaminade College Preparatory 
 
 My past work has led me to make connections who will gladly vouch for me when applying to jobs. If you would like to get in contact with them, you can find their information below.
 
+<br><br>David Jackson, Senior Software Engineer at Amazon: <u>jacdavid@amazon.com</u>
 <br><br>Dr. John Glick, Head of the Computer Science Department and Professor at the University of San Diego: <u>glick@sandiego.edu</u>
 <br><br>Dr. Jennifer Olsen, Computer Science Professor at the University of San Diego: <u>jenniferolsen@sandiego.edu</u>
 <br><br>Dr. Jay Kunin, Computer Science Professor at the University of San Diego: <u>jkunin@sandiego.edu</u>
